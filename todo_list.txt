@@ -1,6 +1,0 @@
-- Data cleaning
-- db_name: data_lake_db
-
-
-- Create Databases ---> Pokemon
-
